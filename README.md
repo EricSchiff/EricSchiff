@@ -2,8 +2,7 @@
 - 🌱 I’m currently learning supervised/unsupervised learning in python using sci-kit learn
 - Current Topics of interest and research: Automation of my workflow as a DNA Analyst, Analysis of College Football Data - exploring relationships between position rankings
 against opposing teams and the impact on the betting markets, raspberry pi projects (Kegerator - Flow Meter and Display)
-- Other life interests: Hiking/Backpacking, Horse ownership with my equestrian wife, Equity markets, USC/VT football, F1 racing, Golf (~85 is a good day),
-Video Games (currently on Witcher 3)
+- Other life interests: My Golden Retriever Sully, Hiking/Backpacking, Horse ownership with my equestrian wife, Equity markets, USC/VT football, F1 racing, Golf (~85 is a good day), Video Games (currently on Witcher 3)
 - 📫 How to reach me: email - haseschiff@gmail.com
 
 <!---
