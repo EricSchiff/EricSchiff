@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EricSchiff, a Senior DNA Analyst at Bode Technology, Virginia Tech Grad, and recent explorer of the world on data science and analytics.
+- 👋 Hi, I’m @EricSchiff, a Senior DNA Analyst at Bode Technology, Virginia Tech Grad, and recent explorer to the world of data science and analytics.
 - 🌱 I’m currently learning supervised/unsupervised learning in python using sci-kit learn
 - Current Topics of interest and research: Automation of my workflow as a DNA Analyst, Analysis of College Football Data - exploring relationships between position rankings
 against opposing teams and the impact on the betting markets, raspberry pi projects (Kegerator - Flow Meter and Display)
